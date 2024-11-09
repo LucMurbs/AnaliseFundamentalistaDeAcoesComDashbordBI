@@ -1,4 +1,4 @@
-AnaliseFundamentalistaDeAcoesComDashbordBI
+Analise Fundamentalista DeAcoes ComDashbord BI
 
 Neste notebook, preparei os dados de uma biblioteca chamada Fundamentus para organizar as informações dentro do meu script em Python e, com isso, gerar um dashboard no Power BI.
 
